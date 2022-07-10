@@ -1,9 +1,13 @@
 <h1 align="center">Hola 👋, me llamo Erick Moreno Negrete</h1>
-<h3 align="center">Soy Candidato a Doctor en Ingeniería Eléctrica</h3>
+<h3 align="center">Soy Ingeniero Mecatrónico y Maestro en Electrónica de Potencia para Fuentes Alternas de Energía. Actualmente soy candidato a Doctor en Control por el CIEP-FI-UASLP</h3>
 
 - 🔭 Actualmente estoy trabajando **Sistemas con Retardo aplicado a Electrónica de Potencia**
 
+- 👨‍💻 Mis publicaciones y referencias están en [https://scholar.google.com/citations?user=TdECTdoAAAAJ&hl=es](https://scholar.google.com/citations?user=TdECTdoAAAAJ&hl=es)
+
 - 📫 Puedes encontrarme en **https://www.linkedin.com/in/ermone/**
+
+- ⚡ La información del Centro de Investigación donde estudio **http://ciep.ing.uaslp.mx/electrica/alumnos.php**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
