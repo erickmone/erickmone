@@ -1,3 +1,20 @@
+<h1 align="center">Hi 👋, I'm Erick Moreno Negrete</h1>
+<h3 align="center">A Mechatronic Engineer and Master in Electrical Engineering</h3>
+
+- 🔭 I’m currently working on **Time-delay Systems**
+
+- 🌱 I’m currently learning **Robust Control**
+
+- 👨‍💻 All of my projects are available at [https://scholar.google.com/citations?user=TdECTdoAAAAJ&hl=es](https://scholar.google.com/citations?user=TdECTdoAAAAJ&hl=es)
+
+- 📫 How to reach me **emone@ieee.org**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/ermone/](https://www.linkedin.com/in/ermone/)
+
+
+
+
+
 <h1 align="center">Hola 👋, me llamo Erick Moreno Negrete</h1>
 <h3 align="center">Soy Ingeniero Mecatrónico y Maestro en Electrónica de Potencia para Fuentes Alternas de Energía. Actualmente soy candidato a Doctor en Control por el CIEP-FI-UASLP</h3>
 
