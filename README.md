@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 my name is Erick Moreno Negrete, I am Mechatronic Engineer, Master in Electrical Engineering and currently Ph.D. Candidate</h1>
-# 💫 About Me:
+<h1 align="left">💫 About Me:</h1>
 🔭 I’m currently working on practical Time-Delay Systems<br>👯 I’m looking to collaborate on modern techniques for control in Power Electronics<br>🤝 I’m looking for help with PCB Design, HIL Simulations, and CHIL for TI C2000 boards with MATLAB or PLECS<br>🌱 I’m currently learning Robust Control<br><br>
 
 
