@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erick Moreno Negrete</h1>
-<h3 align="center">A Mechatronic Engineer and Master in Electrical Engineering</h3>
+<h3 align="center">A Mechatronic Engineer, Master in Electrical Engineering and PhD Candidate</h3>
 
 - 🔭 I’m currently working on **Time-delay Systems**
 
