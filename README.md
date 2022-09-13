@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hello 👋 my name is Erick Moreno Negrete, I am a first-year Ph.D. student. My background is in the area of power electronics.
 🔭 I’m currently working on practical Time-Delay Systems<br>👯 I’m looking to collaborate on modern techniques for control in Power Electronics<br>🤝 I’m looking for help with PCB Design, HIL Simulations, and CHIL for TI C2000 boards with MATLAB or PLECS<br>🌱 I’m currently learning Robust Control<br><br>
 
 
